@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 - 🔭 I’m currently working on Insights and analytics at Shopify
 - 🌱 I’m currently learning more about combining d3 and React, as well as Python and R.
